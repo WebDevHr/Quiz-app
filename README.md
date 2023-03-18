@@ -1,39 +1,34 @@
 ![App Screenshot](https://live.staticflickr.com/65535/52755174242_21cc612476_k.jpg)
 
 
-# Todo-list with VueJs
+# Quiz App with VueJs
 
-It's a simple todo-list application.
+It's a Quiz app that fetches some questions from Open Trivia API, and shows the questions , answers and number of correct answers.
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/WebDevHr/E-commerce.git
+## Project setup
+```
+npm install
 ```
 
-Go to the project directory
-
-```bash
-  cd Todo
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
-Install dependencies
-
-```bash
-  npm install
+### Compiles and minifies for production
+```
+npm run build
 ```
 
-Start the application
-
-```bash
-  npm run
+### Lints and fixes files
+```
+npm run lint
 ```
 
 ## Link
 
 You can check the deployed application at:
 
-https://hungry-fermi-921bfa.netlify.app/
+https://hosseinrazeghian.netlify.app/
 
