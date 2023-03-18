@@ -1,24 +1,37 @@
-# second
+![App Screenshot](https://photos.app.goo.gl/92MwiAhBCr6DRvjx5)
 
-## Project setup
-```
-npm install
-```
+# Todo-list with VueJs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It's a simple todo-list application.
 
-### Compiles and minifies for production
-```
-npm run build
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/WebDevHr/E-commerce.git
 ```
 
-### Lints and fixes files
-```
-npm run lint
+Go to the project directory
+
+```bash
+  cd Todo
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the application
+
+```bash
+  npm run
+```
+
+## Link
+
+You can check the deployed application at:
+
+https://hungry-fermi-921bfa.netlify.app/
