@@ -1,4 +1,5 @@
-![App Screenshot](https://photos.app.goo.gl/92MwiAhBCr6DRvjx5)
+![App Screenshot](https://live.staticflickr.com/65535/52755174242_21cc612476_k.jpg)
+
 
 # Todo-list with VueJs
 
@@ -35,3 +36,4 @@ Start the application
 You can check the deployed application at:
 
 https://hungry-fermi-921bfa.netlify.app/
+
